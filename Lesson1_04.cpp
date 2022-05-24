@@ -60,6 +60,6 @@ int main()
     task3();
     task4();
     task5();
-    std::cout << "Buy buy World!\n";
+    std::cout << "Bye bye World!\n";
 }
 
